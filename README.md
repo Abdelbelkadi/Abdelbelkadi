@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Abdelbelkadi
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on some new projects
+- 🌱 I’m currently learning php
 - 📫 How to reach me : Abderrahmanebelkadi09@gmail.com
 
 <!---
